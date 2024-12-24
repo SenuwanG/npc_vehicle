@@ -3,7 +3,7 @@ This script allows you to customize the vehicles that NPCs (locals) drive in you
 
 **Features**
 
-_Custom Vehicle Poo_l: Define a list of vehicles that NPCs are allowed to drive.
+_Custom Vehicle Pool_: Define a list of vehicles that NPCs are allowed to drive.
 
 _Suppression of Default Vehicles_: Prevent NPCs from using specific vehicles by suppressing them.
 
