@@ -12,6 +12,7 @@ _Easy Configuration_: Modify the script easily to add or remove vehicles.
 _Optimized Performance_: Runs efficiently in the background to ensure seamless gameplay.
 
 **Installation**
+
 Download or clone the repository to your FiveM server's resources directory.
 
 **Add the resource to your server.cfg:**
