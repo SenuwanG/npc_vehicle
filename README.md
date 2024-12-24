@@ -4,8 +4,11 @@ This script allows you to customize the vehicles that NPCs (locals) drive in you
 **Features**
 
 _Custom Vehicle Poo_l: Define a list of vehicles that NPCs are allowed to drive.
+
 _Suppression of Default Vehicles_: Prevent NPCs from using specific vehicles by suppressing them.
+
 _Easy Configuration_: Modify the script easily to add or remove vehicles.
+
 _Optimized Performance_: Runs efficiently in the background to ensure seamless gameplay.
 
 **Installation**
@@ -18,6 +21,7 @@ start npc_vehicles
 **Configuration**
 
 To modify the vehicles NPCs can drive, edit the allowedVehicles and suppressedVehicles lists in the npc_vehicles.lua file.
+
 _Example_:
 
 local allowedVehicles = {
