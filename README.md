@@ -43,6 +43,7 @@ This script is designed for servers running the QBCore framework.
 Tested on the latest FiveM build.
 
 **License**
+
 Feel free to adjust the description as needed for your specific use case or server community!
 
 
